@@ -1,8 +1,11 @@
 /**
- Vahldieck, Kara
+ V, Kara
  COP-3252
  Assignment 4
  2/9/17
+ 
+ Knight Class manages knight with user or computer-generated data
+ 
  */
 
 import java.util.Random;
