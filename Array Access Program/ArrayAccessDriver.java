@@ -1,5 +1,5 @@
 /**
-Vahldieck, Kara
+V, Kara
 COP-3252
 Assignment 6
 3/27/17
