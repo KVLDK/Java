@@ -3,6 +3,7 @@
  COP-3252
  Project 1
  2/14/17
+ Class that creates gameboard
  */
 
 import java.util.Scanner;
@@ -20,15 +21,9 @@ public class GameDriver {
 
         DisplayBoard(board);
 
-
-
-
-
-
-
-
     }
 
+    //gameboard output
     public static void DisplayBoard(String[][] array)
     {
         System.out.printf("%18s\n", "-------------------");
