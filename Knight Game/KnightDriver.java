@@ -1,8 +1,11 @@
 /**
- Vahldieck, Kara
+ V, Kara
  COP-3252
  Assignment 4
  2/9/17
+ 
+ Driver runs the Knight game
+ 
  */
 
 import java.util.Scanner;
