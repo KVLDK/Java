@@ -1,8 +1,11 @@
 /**
- Vahldieck, Kara
+ V, Kara
  COP-3252
  Assignment 5
  3/21/17
+ 
+ Harpy Class
+ 
  */
 
 import java.util.Random;
