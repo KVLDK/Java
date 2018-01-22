@@ -12,4 +12,5 @@ public interface BattleOperations {
 
     int takeDamage(int value, String oppWeapon) throws InvalidDamageException;
     int fight();
+
 }
