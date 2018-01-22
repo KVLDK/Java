@@ -1,8 +1,9 @@
 /**
- Vahldieck, Kara
+ V, Kara
  COP-3252
  Assignment 5
  3/21/17
+ Driver to run the Java Bean Forest game and interact with user
  */
 
 import java.lang.NumberFormatException;
