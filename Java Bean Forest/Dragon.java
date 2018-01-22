@@ -3,7 +3,9 @@
  COP-3252
  Assignment 5
  3/21/17
+ 
  Dragon Class
+ 
  */
 
 import java.util.Random;
