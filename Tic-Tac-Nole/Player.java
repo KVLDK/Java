@@ -1,8 +1,9 @@
 /**
- Vahldieck, Kara
+ V, Kara
  COP-3252
  Project 1
  2/14/17
+ 
  Class Player function definitions
  */
 
