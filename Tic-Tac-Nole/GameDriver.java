@@ -1,10 +1,12 @@
 /**
- Vahldieck, Kara
+ V, Kara
  COP-3252
  Project 1
  2/14/17
 
  Sources: Java How to Program (Early Objects), 9/E; Author(s): (Harvey & Paul) Deitel & Associates
+ 
+ Driver to run game and interact with user
  */
 
 import javax.swing.JOptionPane;
