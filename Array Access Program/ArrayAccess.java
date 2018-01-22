@@ -1,8 +1,12 @@
 /**
-Vahldieck, Kara
+V, Kara
 COP-3252
 Assignment 6
 3/27/17
+
+Driver that interacts with the user
+Template provided by Professor Richard Hurst (FSU, Spring 2017), details filled in by me labeled below
+
 */
 
 // ArrayAccess.java
@@ -43,8 +47,11 @@ public class ArrayAccess extends JFrame
         inputField = new JTextField( 10 );
         inputArea.add( inputField );
         inputField.addActionListener(
+                
+                //ActionListener() created by Kara V
+                
                 new ActionListener()
-                {
+                {   
                     public void actionPerformed( ActionEvent e ) {
                         try{
 
@@ -73,7 +80,10 @@ public class ArrayAccess extends JFrame
         retrieveField1 = new JTextField( 10 );
         retrieveArea.add( retrieveField1 );
         retrieveField1.addActionListener(
-                new ActionListener()
+               
+               //ActionListener() created by Kara V
+               
+               new ActionListener()
                 {
                     public void actionPerformed( ActionEvent event ) {
                         try {
@@ -118,6 +128,10 @@ public class ArrayAccess extends JFrame
         retrieveField2 = new JTextField( 10 );
         retrieveArea.add( retrieveField2 );
         retrieveField2.addActionListener(
+               
+            
+                //ActionListener() created by Kara V
+                
                 new ActionListener()
                 {
                     public void actionPerformed( ActionEvent event ) {
