@@ -4,6 +4,8 @@
  Project 1
  2/14/17
  
+ Sources: Java How to Program (Early Objects), 9/E; Author(s): (Harvey & Paul) Deitel & Associates
+ 
  Class Player function definitions
  */
 
