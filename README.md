@@ -1,2 +1,2 @@
 # Java
-Sample of Java projects
+Sample of Java programs I've created for school projects
