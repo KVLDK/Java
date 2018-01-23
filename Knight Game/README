@@ -1,0 +1,3 @@
+Project simulates single-user or multi-user game that creates knights that battle one another.
+Opponent is either computer-generated or user-generated.
+Battle results determined by weapons and armor chosen for each knight.
