@@ -1,0 +1,2 @@
+Program allows user to create a 10-element array with ability to search the array for specific values, by searching for
+a specific element or an array index. Program throws exceptions when values user enters are out of range.
