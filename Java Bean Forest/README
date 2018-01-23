@@ -1,0 +1,5 @@
+Assignment simulates a single-user game that creates a knight with attributes from predefined categories. 
+An enemy is created randomly by the computer. 
+Knight and enemy “battle” each round, with damage to each party semi-randomly determined. 
+Game continues until knight or enemy loses all health points. 
+Use of classes/inheritance/polymorphism, exception handling, GUI dialog boxes.
